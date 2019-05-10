@@ -1,0 +1,23 @@
+{
+  "name": "rtanque_http_bot_node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antico5/rtanque_http_bot_node_js.git"
+  },
+  "author": "Armando Andini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antico5/rtanque_http_bot_node_js/issues"
+  },
+  "homepage": "https://github.com/antico5/rtanque_http_bot_node_js#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4"
+  }
+}
