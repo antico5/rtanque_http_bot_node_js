@@ -18,6 +18,6 @@
   "homepage": "https://github.com/antico5/rtanque_http_bot_node_js#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
